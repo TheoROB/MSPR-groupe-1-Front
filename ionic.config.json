@@ -1,0 +1,7 @@
+{
+  "name": "Arosaje-Front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
